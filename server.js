@@ -8,7 +8,7 @@ app.use(express.json());
 
 // Your webhook mappings (add more as needed)
 const webhooks = {
-    'wh_yourcode123': 'PASTE_YOUR_DISCORD_WEBHOOK_HERE'
+    'wh_yourcode123': 'webhook-relay-production-baf2.up.railway.app'
 };
 
 // Send webhook endpoint
