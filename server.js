@@ -8,7 +8,7 @@ app.use(express.json());
 
 // Your webhook mappings (add more as needed)
 const webhooks = {
-    'wh_yourcode123': 'https://discord.com/api/webhooks/1467155325441540110/Yy0KQpAlWrznQgoW5-hYTXvIWQldFjF4tsyF2mWgRuq40khtVH4r3lR0BMZ3zOQxMZII'
+    'wh_fshufuh121ga': 'https://discord.com/api/webhooks/1467155325441540110/Yy0KQpAlWrznQgoW5-hYTXvIWQldFjF4tsyF2mWgRuq40khtVH4r3lR0BMZ3zOQxMZII'
 };
 
 // Send webhook endpoint
